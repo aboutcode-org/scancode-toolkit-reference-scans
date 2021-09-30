@@ -1,11 +1,11 @@
-Welcome to nexb-skeleton's documentation!
-=========================================
+Welcome to scancode-reference-scans documentation!
+==================================================
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   skeleton/index
+   outputs/index
 
 Indices and tables
 ==================
