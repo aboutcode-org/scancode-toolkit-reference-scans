@@ -18,4 +18,4 @@ Latest scancode Version: 30.1.0
    :maxdepth: 2
    :caption: Contents:
 
-   latest/clipeu-v30.1.0-v21.8.4.rst
+   latest/clipeu-v30.1.0-v21.8.4-1a0bd63

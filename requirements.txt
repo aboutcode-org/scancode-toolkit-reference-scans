@@ -1,3 +1,4 @@
 Sphinx==4.2.0
 sphinx_rtd_theme==1.0.0
 doc8==0.9.1
+cookiecutter==1.7.2

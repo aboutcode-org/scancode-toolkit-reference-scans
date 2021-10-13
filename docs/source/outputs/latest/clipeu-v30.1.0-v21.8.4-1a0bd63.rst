@@ -1,5 +1,5 @@
-Output Version Changelog
-========================
+Output Format Changes Between Versions: ``21.8.4`` and ``30.1.0``
+=============================================================================================================
 
 Versions and Options
 --------------------
@@ -35,7 +35,7 @@ Changes in Output Data
 Headers
 ^^^^^^^
 
-Additions::
+Additions:
 
 - ``output_format_version`` added.
 - ``spdx_license_list_version`` added in ``extra_data``.
@@ -43,19 +43,20 @@ Additions::
 Files: Licenses
 ^^^^^^^^^^^^^^^
 
-Additions::
+Additions:
 
 - ``is_unknown`` added.
 - ``referenced_filenames`` and ``has_unknown`` added in ``matched_rule``.
 
+
 YAML Diff
 ---------
 
-.. literalinclude:: ./yaml/scancode-30.1.0-clipeu.yaml
-   :diff: ../archive/yaml/scancode-21.8.4-clipeu.yaml
+.. literalinclude:: ./yaml/scancode-30.1.0-clipeu-1a0bd63.yaml
+   :diff: ../archive/yaml/scancode-21.8.4-clipeu-1a0bd63.yaml
 
 JSON Diff
 ---------
 
-.. literalinclude:: ./json/scancode-30.1.0-clipeu.json
-   :diff: ../archive/json/scancode-21.8.4-clipeu.json
+.. literalinclude:: ./json/scancode-30.1.0-clipeu-1a0bd63.json
+   :diff: ../archive/json/scancode-21.8.4-clipeu-1a0bd63.json
