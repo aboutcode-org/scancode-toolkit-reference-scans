@@ -24,4 +24,4 @@ jobs:
         run: chmod u+x ./etc/shell-scripts/run_scancode_version_compare.sh
 
       - name: Run Script
-        run:  VERSION_OLD="21.8.4" VERSION_NEW="30.1.0" ./etc/shell-scripts/run_scancode_version_compare.sh
+        run:  VERSION_OLD="30.1.0" VERSION_NEW="31.0.0b4" ./etc/shell-scripts/run_scancode_version_compare.sh
