@@ -39,10 +39,10 @@ YAML Diff
 ---------
 
 .. literalinclude:: ./yaml/scancode-{{cookiecutter.new_version}}-clipeu-{{cookiecutter.latest_commit}}.yaml
-   :diff: ../archive/yaml/scancode-{{cookiecutter.old_version}}-clipeu-{{cookiecutter.latest_commit}}.yaml
+   :diff: ./yaml/scancode-{{cookiecutter.old_version}}-clipeu-{{cookiecutter.latest_commit}}.yaml
 
 JSON Diff
 ---------
 
 .. literalinclude:: ./json/scancode-{{cookiecutter.new_version}}-clipeu-{{cookiecutter.latest_commit}}.json
-   :diff: ../archive/json/scancode-{{cookiecutter.old_version}}-clipeu-{{cookiecutter.latest_commit}}.json
+   :diff: ./json/scancode-{{cookiecutter.old_version}}-clipeu-{{cookiecutter.latest_commit}}.json

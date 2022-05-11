@@ -53,10 +53,10 @@ YAML Diff
 ---------
 
 .. literalinclude:: ./yaml/scancode-30.1.0-clipeu-1a0bd63.yaml
-   :diff: ../archive/yaml/scancode-21.8.4-clipeu-1a0bd63.yaml
+   :diff: ./yaml/scancode-21.8.4-clipeu-1a0bd63.yaml
 
 JSON Diff
 ---------
 
 .. literalinclude:: ./json/scancode-30.1.0-clipeu-1a0bd63.json
-   :diff: ../archive/json/scancode-21.8.4-clipeu-1a0bd63.json
+   :diff: ./json/scancode-21.8.4-clipeu-1a0bd63.json

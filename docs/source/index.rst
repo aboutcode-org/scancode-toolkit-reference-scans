@@ -5,6 +5,12 @@ Welcome to scancode-reference-scans documentation!
 
 .. toctree::
    :maxdepth: 2
+   :caption: Contribute:
+
+   contribute/contrib_doc
+
+.. toctree::
+   :maxdepth: 2
    :caption: Contents:
 
    outputs/index
@@ -14,16 +20,3 @@ Welcome to scancode-reference-scans documentation!
    :caption: Output Version Changelogs:
 
    outputs/latest/clipeu-v30.1.0-v21.8.4-1a0bd63
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contribute:
-
-   contribute/contrib_doc
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
