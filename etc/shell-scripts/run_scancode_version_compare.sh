@@ -115,6 +115,8 @@ echo ""
 
 ./configure --docs
 cd docs
+./scripts/sphinx_build_link_check.sh
+./scripts/doc8_style_check.sh
 make html
 
 echo "Documentation build successful!"
