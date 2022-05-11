@@ -15,7 +15,7 @@ documentation, the steps are:
     1. Run scancode for the latest and previous versions for the same sample scan data.
     2. Document Output Version diffs.
 
-This is automated by the script at::
+This is automated by the `script <https://github.com/nexB/scancode-toolkit-reference-scans/blob/main/etc/shell-scripts/run_scancode_version_compare.sh>`_ at::
 
     scancode-toolkit-reference-scans/etc/shell-scripts/run_scancode_version_compare.sh
 
@@ -53,16 +53,6 @@ For each of the following sections:
     - ``Files:Licenses``
     - ``Files:Packages``
     - Other Codebase/Resource Level Attribute Changes
-
-Add File to toctree
-^^^^^^^^^^^^^^^^^^^
-
-The newly added reStructuredText file (example: ``clipeu-v30.1.0-v21.8.4-1a0bd63.rst``)
-has to be added to respective toctrees so they are added to the documentation build.
-They have to be added at the following places:
-
-    - ``Output Version Changelogs`` at ``scancode-toolkit-reference-scans/docs/source/index.rst``
-    - ``Versions Compared`` at ``scancode-toolkit-reference-scans/docs/source/outputs/index.rst``
 
 Commit and Push changes
 -----------------------
