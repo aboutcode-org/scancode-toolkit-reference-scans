@@ -27,7 +27,7 @@ CLI Args
 - ``--email``
 - ``--url``
 
-The input for the scan was this `folder <https://github.com/nexB/scancode-toolkit-reference-scans/tree/main/scan-data/samples>`_.
+The input for the scan was this `folder <https://github.com/aboutcode-org/scancode-toolkit-reference-scans/tree/main/scan-data/samples>`_.
 
 See `scancode-toolkit CLI reference <https://scancode-toolkit.readthedocs.io/en/latest/cli-reference/list-options.html>`_ for more details.
 

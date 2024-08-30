@@ -12,7 +12,7 @@ ScanCode data is licensed under CC-BY-4.0.
 See https://www.apache.org/licenses/LICENSE-2.0 for the Apache-2.0 license text.
 See https://creativecommons.org/licenses/by/4.0/legalcode for the CC-BY-4.0 license text.
 
-See https://github.com/nexB/scancode-toolkit for support or download. 
+See https://github.com/aboutcode-org/scancode-toolkit for support or download.
 See https://aboutcode.org for more information about nexB OSS projects
 
 
@@ -28,13 +28,13 @@ The corresponding source code for pre-compiled third-party software is available
 for immediate download from the same release page where you obtained ScanCode,
 including:
 
-- https://github.com/nexB/scancode-toolkit/
+- https://github.com/aboutcode-org/scancode-toolkit/
 - https://pypi.org/project/scancode-toolkit/
 - https://thirdparty.aboutcode.org/pypi/
-- https://github.com/nexB/thirdparty-packages/pypi/
-- https://github.com/nexB/scancode-plugins/
-- https://github.com/nexB/scancode-thirdparty-src/
-- https://github.com/nexB/thirdparty-packages/
+- https://github.com/aboutcode-org/thirdparty-packages/pypi/
+- https://github.com/aboutcode-org/scancode-plugins/
+- https://github.com/aboutcode-org/scancode-thirdparty-src/
+- https://github.com/aboutcode-org/thirdparty-packages/
 
 You may also contact us to request the source code by email at info@nexb.com or
 by postal mail at:
@@ -58,5 +58,5 @@ The preferred attribution for use of ScanCode data is::
     ScanCode is a trademark of nexB Inc.
     SPDX-License-Identifier: CC-BY-4.0
     See https://creativecommons.org/licenses/by/4.0/legalcode for the license text.
-    See https://github.com/nexB/scancode-toolkit for support or download. 
+    See https://github.com/aboutcode-org/scancode-toolkit for support or download.
     See https://aboutcode.org for more information about nexB OSS projects.

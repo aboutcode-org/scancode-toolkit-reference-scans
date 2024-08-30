@@ -1,7 +1,7 @@
 Scancode-toolkit Reference Scans
 ================================
 
-This repository houses reference scans for `scancode-toolkit <https://github.com/nexB/scancode-toolkit>`_,
+This repository houses reference scans for `scancode-toolkit <https://github.com/aboutcode-org/scancode-toolkit>`_,
 and also documentation with diffs of scan output between different versions of scancode-toolkit.
 
 The documentation is hosted at https://scancode-toolkit-reference-scans.readthedocs.io/en/latest/.
@@ -15,7 +15,7 @@ documentation, the steps are:
     1. Run scancode for the latest and previous versions for the same sample scan data.
     2. Document Output Version diffs.
 
-This is automated by the `script <https://github.com/nexB/scancode-toolkit-reference-scans/blob/main/etc/shell-scripts/run_scancode_version_compare.sh>`_ at::
+This is automated by the `script <https://github.com/aboutcode-org/scancode-toolkit-reference-scans/blob/main/etc/shell-scripts/run_scancode_version_compare.sh>`_ at::
 
     scancode-toolkit-reference-scans/etc/shell-scripts/run_scancode_version_compare.sh
 
@@ -46,7 +46,7 @@ has to be updated. The section ``Changes in Output Data`` has to be updated with
     - additions
     - deletions
     - modifications
-    
+
 For each of the following sections:
 
     - ``Headers``

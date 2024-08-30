@@ -6,10 +6,10 @@ A typical software project often reuses hundreds of third-party packages.
 License and origin information is not always easy to find and not normalized:
 ScanCode discovers and normalizes this data for you.
 
-Read more about ScanCode here: `scancode-toolkit.readthedocs.io 
+Read more about ScanCode here: `scancode-toolkit.readthedocs.io
 <https://scancode-toolkit.readthedocs.io/en/latest/>`_.
 
-Check out the code at https://github.com/nexB/scancode-toolkit
+Check out the code at https://github.com/aboutcode-org/scancode-toolkit
 
 
 Why use ScanCode?
@@ -24,7 +24,7 @@ Why use ScanCode?
   `OpenEmbedded.org <https://www.openembedded.org>`_,
   the `FSFE <https://www.fsfe.org>`_,
   the `FSF <https://www.fsf.org>`_,
-  `OSS Review Toolkit <http://oss-review-toolkit.org>`_, 
+  `OSS Review Toolkit <http://oss-review-toolkit.org>`_,
   `ClearlyDefined.io <https://clearlydefined.io/>`_,
   `RedHat Fabric8 analytics <https://github.com/fabric8-analytics>`_,
   and many more.
@@ -47,7 +47,7 @@ Why use ScanCode?
   own format with Jinja templates.
 
 - You can also organize and run ScanCode server-side with the
-  companion `ScanCode.io web app <https://github.com/nexB/scancode.io>`_
+  companion `ScanCode.io web app <https://github.com/aboutcode-org/scancode.io>`_
   to organize and store multiple scan projects including scripted scanning pipelines.
 
 - ScanCode is **actively maintained**, has a **growing users and contributors
@@ -58,14 +58,14 @@ Why use ScanCode?
 - ScanCode has an extensive and growing documentation.
 
 - ScanCode can process these packages, build manifest and lockfile formats to extract metadata:
-  Alpine packages, BUCK files, ABOUT files, Android apps, Autotools, Bazel, 
-  JavaScript Bower, Java Axis, MS Cab, Rust Cargo, Chef Chrome apps, 
+  Alpine packages, BUCK files, ABOUT files, Android apps, Autotools, Bazel,
+  JavaScript Bower, Java Axis, MS Cab, Rust Cargo, Chef Chrome apps,
   PHP Composer and composer.lock, Conda, CPAN, Debian, Apple dmg,
-  Java EAR, WAR, JAR, FreeBSD packages, Rubygems gemspec, Gemfile and Gemfile.lock, 
-  Go modules, Haxe packages, InstallShield installers, iOS apps, ISO images, 
-  Apache IVY, JBoss Sar, R CRAN, Apache Maven, Meteor, Mozilla extensions, 
-  MSI installers, JavaScript npm packages, package-lock.json, yarn.lock, 
-  NSIS Installers, NugGet, OPam, Cocoapods, Python PyPI setup.py, setup.cfg, and 
+  Java EAR, WAR, JAR, FreeBSD packages, Rubygems gemspec, Gemfile and Gemfile.lock,
+  Go modules, Haxe packages, InstallShield installers, iOS apps, ISO images,
+  Apache IVY, JBoss Sar, R CRAN, Apache Maven, Meteor, Mozilla extensions,
+  MSI installers, JavaScript npm packages, package-lock.json, yarn.lock,
+  NSIS Installers, NugGet, OPam, Cocoapods, Python PyPI setup.py, setup.cfg, and
   several related lockfile formats, semi structured README
   files such as README.android, README.chromium, README.facebook, README.google,
   README.thirdparty, RPMs, Shell Archives, Squashfs images, Java WAR, Windows executables.
@@ -97,7 +97,7 @@ If you are new to Scancode, start `here <https://scancode-toolkit.readthedocs.io
 
 Other Important Documentation Pages:
 
-- A `synopsis <https://scancode-toolkit.readthedocs.io/en/latest/cli-reference/synopsis.html>`_ 
+- A `synopsis <https://scancode-toolkit.readthedocs.io/en/latest/cli-reference/synopsis.html>`_
   of ScanCode command line options.
 
 - Tutorials on:
@@ -189,7 +189,7 @@ Support
 =======
 
 If you have a problem, a suggestion or found a bug, please enter a ticket at:
-https://github.com/nexB/scancode-toolkit/issues
+https://github.com/aboutcode-org/scancode-toolkit/issues
 
 For discussions and chats, we have:
 
@@ -200,17 +200,17 @@ For discussions and chats, we have:
 
 * an official `#aboutcode` IRC channel on liberachat (server web.libera.chat).
   This channel receives build and commit notifications and can be noisy.
-  You can use your favorite IRC client or use the `web chat 
+  You can use your favorite IRC client or use the `web chat
   <https://web.libera.chat/?#aboutcode>`_.
 
 
 Source code and downloads
 =========================
 
-* https://github.com/nexB/scancode-toolkit/releases
-* https://github.com/nexB/scancode-toolkit.git
+* https://github.com/aboutcode-org/scancode-toolkit/releases
+* https://github.com/aboutcode-org/scancode-toolkit.git
 * https://pypi.org/project/scancode-toolkit/
-* https://github.com/nexB/scancode-thirdparty-src.git
+* https://github.com/aboutcode-org/scancode-thirdparty-src.git
 
 
 License
